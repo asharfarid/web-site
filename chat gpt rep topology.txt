@@ -1,0 +1,59 @@
+repository: PS D:\Practise\web-site>
+Main folder: 
+States 
+.git (hidden)
+.gitattributes
+index.html
+States folder: 
+Andaman_and_Nicobar_Islands
+Andhra_Pradesh
+Arunachal_Pradesh
+Assam
+Bihar
+Chandigarh
+Chhattisgarh
+Dadra_and_Nagar_Haveli_and_Daman_and_Diu
+Delhi
+Goa
+Gujarat
+Haryana
+Himachal_Pradesh
+Jammu_and_Kashmir
+Jharkhand
+Karnataka
+Kerala
+Ladakh
+Lakshadweep
+Madhya_Pradesh
+Maharashtra
+Manipur
+Meghalaya
+Mizoram
+Nagaland
+Odisha
+Puducherry
+Punjab
+Rajasthan
+Sikkim
+Tamil_Nadu
+Telangana
+Tripura
+Uttar_Pradesh
+Uttarakhand
+West_Bengal
+States.html
+Each folder have same file with its state name (ex. Kerala.html)with below code: 
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+  <meta charset='UTF-8'>
+  <title>Kerala</title>
+</head>
+<body>
+  <h1>Kerala</h1>
+  <p>Details about Kerala...</p>
+  <a href='../States.html'>Back to States List</a>
+</body>
+</html>
+
+Update the correct topology in memory
